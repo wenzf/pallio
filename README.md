@@ -16,8 +16,9 @@
 * without ```srcset```, ```sizes``` and animation
 ```html
 <a href="./finalImage.jpg"
-   class="pallio pulse-inactive">
-    <img src='./placeholderImage.jpg' class="preview" alt="image"/>
+   class="pallio">
+   <div class="pulse-box"></div>
+   <img src='./placeholderImage.jpg' class="preview" alt="image"/>
 </a>
 ```
 
