@@ -25,7 +25,7 @@
 * without ```srcset``` and ```sizes```
 ```html
 <a href="./finalImage.jpg"
-   class="pallio">
+   class="pallio pulse-inactive">
     <div class="pulse-box">
       <div class="pulse"><div></div><div></div><div></div></div>
     </div> 
