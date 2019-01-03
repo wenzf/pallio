@@ -1,3 +1,6 @@
+// https://github.com/wenzf/pallio/
+// based on https://github.com/craigbuckler/progressive-image.js
+
 // load image data in array
 const images = [].slice.call(document.querySelectorAll('.pallio'));
 
